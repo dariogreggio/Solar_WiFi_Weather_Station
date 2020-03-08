@@ -167,7 +167,7 @@
   const char TEXT_ZAMBRETTI_W[]       = "Pioggia a intervalli frequenti";
   const char TEXT_ZAMBRETTI_X[]       = "Molto instabile, Pioggia";
   const char TEXT_ZAMBRETTI_Y[]       = "Tempestoso con possibili miglioramenti";
-  const char TEXT_ZAMBRETTI_Z[]       = "Tempestoso e moto piovoso";
+  const char TEXT_ZAMBRETTI_Z[]       = "Tempestoso e molto piovoso";
   const char TEXT_ZAMBRETTI_0[]       = "Batteria scarica, si prega di ricaricare!";
   const char TEXT_ZAMBRETTI_DEFAULT[] = "Mi dispiace, nessuna previsione disponibile al momento";
 
